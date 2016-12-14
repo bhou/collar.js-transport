@@ -1,6 +1,6 @@
 {
   "name": "collar.js-transport",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "collar.js transport layer",
   "main": "index.js",
   "scripts": {
