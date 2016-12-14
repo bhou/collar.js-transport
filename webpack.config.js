@@ -28,7 +28,7 @@ if (PROD) {
 module.exports = [
   {
     entry: {
-      'collar-transport' : './node-entry.js'
+      'collar-transport' : './web-entry.js'
     },
     output: {
         path: PROD ? path.join(__dirname, "build", "prod", "web") : path.join(__dirname, "build", "dev", "web"),
